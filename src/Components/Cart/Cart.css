@@ -1,0 +1,7 @@
+.cart-item{
+    position: fixed;
+    background: lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    /* text-align:unset; */
+}

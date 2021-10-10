@@ -1,0 +1,21 @@
+.search-box{
+    background: #000000e0;
+    line-height: 70px;
+    text-align: center;
+}
+input{
+   height: 25px;
+    width: 60%;
+}
+.container{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.shops-container{
+    margin-left: 30px;
+}
+.cart{
+    border-left: 1px solid black;
+    padding-left : 10px;
+}

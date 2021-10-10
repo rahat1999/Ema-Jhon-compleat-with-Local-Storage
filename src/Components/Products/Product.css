@@ -1,0 +1,28 @@
+.main-container{
+    display: flex;
+    margin-left: 20px;
+    border-bottom:1px solid gray;
+    margin-right: 15px;
+}
+.product-name{
+    color: blue;
+    font-weight: 500;
+}
+.item-header{
+    margin-left:10px;
+}
+.local-button{
+    background-color: #f0c14b;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    width: 180px;
+    height: 27px;
+    margin-bottom:5px ;
+    border-radius: 4px;
+}
+.local-button:hover{
+    background-color: #f1ce2f;
+}
+.fa-star{
+    color:goldenrod;
+}

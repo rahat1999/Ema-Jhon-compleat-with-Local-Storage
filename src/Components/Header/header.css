@@ -1,0 +1,25 @@
+header,.logo{
+    text-align: center;
+}
+.logo img{
+    height:80px;
+}
+.link{
+    background: black;
+    line-height: 50px;
+}
+.link a{
+    color :white;
+    text-decoration: none;
+    margin-right:20px;
+    border-radius: 5px;
+    padding: 8px 10px;
+    font-weight: 500;
+    transition: .7s;
+}
+.link a:hover{
+    background: lightgray;
+    color: black;
+    /* font-weight: 500; */
+    
+}
