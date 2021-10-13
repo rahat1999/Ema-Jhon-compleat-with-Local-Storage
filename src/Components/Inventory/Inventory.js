@@ -1,9 +1,12 @@
 import React from 'react';
 
+
 const Inventory = () => {
+
     return (
-        <div>
-            <h2>this is inventory</h2>
+        <div className="text-center">
+            <h2>This is inventory</h2>
+
         </div>
     );
 };

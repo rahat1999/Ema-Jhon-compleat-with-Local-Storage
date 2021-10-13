@@ -12,7 +12,7 @@ const Store = () => {
 
     // console.log(products)
     useEffect(() => {
-        fetch('./products.JSON')
+        fetch('./products.json')
             .then(res => res.json())
             .then(data => {
                 setDisplayProducts(data)
